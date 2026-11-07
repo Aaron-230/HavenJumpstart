@@ -6,9 +6,9 @@ This is a Simple 2D Platformer with the sole mission of collecting coins. I have
 Use the Arrow Keys for Left and Right Motion and Space to Jump.
 Enjoy the Game!
 
-![Startup Menu]()
+![Startup Menu](https://github.com/Aaron-230/HavenJumpstart/blob/main/Screenshot.PNG)
 
-[DEMO LINK!!!]()
+[DEMO LINK!!!](https://lowspecdev.itch.io/haven-jumpstart)
 
 Feel Free to make contributions to the project to add new mechanics and maybe an combat system! Any contributions you make are **greatly appreciated**.
 Here is how to contribute to the project!
